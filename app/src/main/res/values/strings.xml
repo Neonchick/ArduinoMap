@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArduinoMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="temperature">Температура</string>
+    <string name="humidity">Влажность</string>
+    <string name="pressure">Давление</string>
+    <string name="ok">Ok</string>
+    <string name="error">Ошибка загрузки данных</string>
+</resources>
